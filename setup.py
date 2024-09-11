@@ -18,7 +18,7 @@ setup(
         "PyYAML",
         "circuitsvis",
         "transformer_lens",
-        "torch==1.13.1",
+        "torch==2.4.0",
         "numpy>=1.22.1",
         "pandas>=1.4.4",
         "jaxtyping>=0.2.14",
